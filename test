@@ -1,0 +1,23 @@
+[33mcommit ccd6f42610146203082efc33d58b26ad29b105d9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: ezepeda2 <ewsguest154@siebl-0218-03.ews.illinois.edu>
+Date:   Fri Jun 7 10:08:37 2019 -0500
+
+    Add the degrees to Radians convesrion
+
+[33mcommit cfa524dd0c33e40c6927e7aff773f254fd4d74fd[m
+Author: ezepeda2 <ewsguest154@siebl-0218-03.ews.illinois.edu>
+Date:   Fri Jun 7 10:03:11 2019 -0500
+
+    Add another conversion Tool
+
+[33mcommit 28129a26730edafbfd9e7bd0e39c9398978d616d[m
+Author: ezepeda2 <ewsguest154@siebl-0218-03.ews.illinois.edu>
+Date:   Fri Jun 7 09:55:49 2019 -0500
+
+    Start notes on conversion tools
+
+[33mcommit e4ea749d71d53d4997f2b7844b6bb29dac2a8a90[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ernesto Zepeda <35737321+zepedern@users.noreply.github.com>
+Date:   Fri Jun 7 09:40:35 2019 -0500
+
+    Initial commit
